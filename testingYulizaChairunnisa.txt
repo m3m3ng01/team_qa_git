@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 testing Yuliza Chairunnisa
 test testing membuat file
 branch qa buat push git
 testing aja test
+=======
+Halo ini file Yuliza Chairunnisa 
+
+testing
+
+>>>>>>> 11798fdcc09234cfc3c035e79d533d4a8e9f6deb
